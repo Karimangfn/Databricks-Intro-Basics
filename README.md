@@ -2,7 +2,7 @@
 
 Este repositório contém exercícios básicos desenvolvidos no Databricks, utilizando PySpark, SparkSQL, SQL e Python.
 
-## 🚀 Como Executar os Códigos no Databricks Community Edition
+## ▶️ Como Executar os Códigos no Databricks Community Edition
 
 Para executar os notebooks deste repositório, siga os passos abaixo:
 
@@ -21,3 +21,13 @@ Para executar os notebooks deste repositório, siga os passos abaixo:
 4. **Executar os Notebooks**  
    - Abra o notebook importado.
    - Selecione o cluster criado e clique em "Run All" para executar todas as células.
+  
+## 🚀 Tecnologias
+
+Os projetos foram desenvolvidos utilizando as seguintes tecnologias:
+
+- Jupyter Notebook
+- Python
+- PySpark
+- SQL
+- SparkSQL
